@@ -1,0 +1,497 @@
+PHASE;SECTION;EPIC;REQUIREMENT NAME;ASSUMPTION;TASK TYPE;EC;BA;SA;BD;FD;CS;QA;CR;PM;Hrs;MD;COST
+Refapp - Phase 1 Release;Storefront Implementation;Non product pages ;404 pages;;Story;;;;0,25;1;;0,5;0,0625;0,3125;17;2,125;17
+Refapp - P1 Release Cigars.com;Storefront Implementation;Non product pages ;404 pages;Assuming content will be similar to existing pages;Story;;;;0,25;1;;0,5;0,0625;0,3125;17;2,125;17
+JRCigars;Storefront Implementation;Non-Product Pages;About JR Cigars, EXpress order, Shipping information, FAQ, Return Policy, New Privacy Policy, Terms of use;Assuming content will be similar to existing pages;Story;;;;;5;;2;0,25;1,25;68;8,5;68
+Seriouscigar;Storefront Implementation;Non product pages ;About serious cigars, Shipping information, Express order, return policy, Privacy policy, Age verification, Terms of Use, Your CA Privacy rights, About Ads;Assuming content will be similar to existing pages;;;;;;5;;2;0,25;1,25;68;8,5;68
+Refapp - Phase 1 Release;Storefront Implementation;Non product pages ;About us ;;Story;;;;0,25;0,75;;0,4;0,05;0,25;13,6;1,7;13,6
+Refapp - P1 Release Cigars.com;Storefront Implementation;Non product pages ;About us ;Assuming content will be similar to existing pages;Story;;;;0,25;0,75;;0,4;0,05;0,25;13,6;1,7;13,6
+JRCigars;Storefront Implementation;Homepage;Activate SMS notifications to receive latest deals;Assuming integration with existing SMS provider;Story;;;;0,5;0,5;;0,4;0,05;0,25;13,6;1,7;13,6
+New Country;Storefront Implementation;Storefront Implementation;Add Support for Default Locale;;Story;;;;3;3;;2,4;0,3;1,5;81,6;10,2;81,6
+New Language;Storefront Implementation;Storefront Implementation;Add Support for new Locale;;Story;;;;3;4;;2,8;0,35;1,75;95,2;11,9;95,2
+Refapp - P1 Release Cigars.com;Storefront Implementation;Cart ;Add to Cart  ;Assuming standard Site Genesis template;;;;;0,5;0,5;;0,4;0,05;0,25;13,6;1,7;13,6
+JRCigars;Storefront Implementation;Cart;Add to cart pop-up suggestions (Bonus Buy);Assume leveraging Recommendations functionality;Story;;;;0,5;1;;0,6;0,075;0,375;20,4;2,55;20,4
+Refapp - P1 Release Cigars.com;Backend Integration;Backend Integration;Address Verification;Assume integration with 3rd party verification service w/ documented API;;;;;1,5;;;0,6;0,075;0,375;20,4;2,55;20,4
+Refapp - Phase 1 Release;Storefront Implementation;My Account ;Addresses;Add/ Edit/ Delete/ Default;Story;;;;0,5;0,5;;0,4;0,05;0,25;13,6;1,7;13,6
+Refapp - P1 Release Cigars.com;Storefront Implementation;My Account ;Addresses;Assuming standard Site Genesis template;Story;;;;0,5;0,5;;0,4;0,05;0,25;13,6;1,7;13,6
+Refapp - Phase 1 Release;Backend Integration;Backend Integration;Analytics and Reporting;GTM;Story;;;;4;;;1,6;0,2;1;54,4;6,8;54,4
+Refapp - P1 Release Cigars.com;Backend Integration;Backend Integration;Analytics and Reporting;Assume OSF-licensed GTM cartridge;Story;;;;4;;;1,6;0,2;1;54,4;6,8;54,4
+JRCigars;Backend Implementation;Integrations;Auctions ;Assume auction site will leverage partial components (header/footer/cart) built for rendering on 3rd party sites/apps;Story;;;;1;;;0,4;0,05;0,25;13,6;1,7;13,6
+JRCigars;Storefront Implementation;PDP;Back in stock & Back Order;Assume OSF-licensed BIS cartridge;Story;;;;1;2;;1,2;0,15;0,75;40,8;5,1;40,8
+Seriouscigar;Backend Implementation;Backend Integrations;Back in Stock Notification;;;;;;1;;;0,4;0,05;0,25;13,6;1,7;13,6
+JRCigars;Storefront Implementation;Custom Pages;Beat the heat;Assuming content will be similar to existing page;Story;;;;0,25;1;;0,5;0,0625;0,3125;17;2,125;17
+JRCigars;Backend Implementation;Integrations;Beat the heat;Assume app will leverage partial components (header/footer/cart) built for rendering in a Cordova web-container;Story;;;;1;;;0,4;0,05;0,25;13,6;1,7;13,6
+Seriouscigar;Backend Implementation;Backend Integrations;Best Cigars reviews on the category landing page. Maybe this should be in the PDP section;;;;;;1;;;0,4;0,05;0,25;13,6;1,7;13,6
+Seriouscigar;Storefront Implementation;Non product pages ;Blog >> link to Ron's corner (top menu);Assume display of content assets imported from CMS for display on blog page;;;;;;2;;0,8;0,1;0,5;27,2;3,4;27,2
+Refapp - Phase 1 Release;Storefront Implementation;Search Results;Breadcrumb;Enhanced search suggestions, search result messages, refinements;Story;;;;1;1;;0,8;0,1;0,5;27,2;3,4;27,2
+Refapp - P1 Release Cigars.com;Storefront Implementation;Search Results;Breadcrumb;Assuming standard Site Genesis template;Story;;;;1;1;;0,8;0,1;0,5;27,2;3,4;27,2
+JRCigars;Storefront Implementation;Search?;Build a Sampler;Assume UI to create, BM snap-in to approve, and job to create catalog item;Story;;;;1;1;;0,8;0,1;0,5;27,2;3,4;27,2
+Refapp - Phase 1 Release;Backend Integration;Backend Integration;Call Center;Customer Service Center;Story;;;1;3;;;1,2;0,15;1;50,8;6,35;50,8
+Refapp - P1 Release Cigars.com;Backend Integration;Backend Integration;Call Center;Customer Service Center;Story;;;1;3;;;1,2;0,15;1;50,8;6,35;50,8
+Refapp - Phase 1 Release;Storefront Implementation;Cart ;Cart - bonus products;;Story;;;;0,5;1;;0,6;0,075;0,375;20,4;2,55;20,4
+Refapp - P1 Release Cigars.com;Storefront Implementation;Cart ;Cart - bonus products;Assuming standard Site Genesis template;Story;;;;0,5;1;;0,6;0,075;0,375;20,4;2,55;20,4
+Refapp - Phase 1 Release;Storefront Implementation;Cart ;Cart - coupons;;Story;;;;1;0,25;;0,5;0,0625;0,3125;17;2,125;17
+Refapp - P1 Release Cigars.com;Storefront Implementation;Cart ;Cart - coupons;Assuming standard Site Genesis template;Story;;;;1;0,25;;0,5;0,0625;0,3125;17;2,125;17
+Refapp - P1 Release Cigars.com;Backend Integration;Backend Integration;Cart Abandonment;Assume OSF-licensed CAB Cartridge;;;;;2;1;;1,2;0,15;0,75;40,8;5,1;40,8
+Refapp - Phase 1 Release;Storefront Implementation;Cart ;Cart Order Summary ;;Story;;;;0,5;0,75;;0,5;0,0625;0,3125;17;2,125;17
+Refapp - P1 Release Cigars.com;Storefront Implementation;Cart ;Cart Order Summary ;Assuming standard Site Genesis template;Story;;;;0,5;0,75;;0,5;0,0625;0,3125;17;2,125;17
+Refapp - Phase 1 Release;Storefront Implementation;Cart ;Cart Page;layout, pricing/ promotions;Story;;;;1;1,5;;1;0,125;0,625;34;4,25;34
+Refapp - P1 Release Cigars.com;Storefront Implementation;Cart ;Cart Page;Assuming standard Site Genesis template;Story;;;;1;1,5;;1;0,125;0,625;34;4,25;34
+Refapp - Phase 1 Release;Storefront Implementation;Cart ;Cart page- empty cart;;Story;;;;;0,5;;0,2;0,025;0,125;6,8;0,85;6,8
+Refapp - P1 Release Cigars.com;Storefront Implementation;Cart ;Cart page- empty cart;Assuming standard Site Genesis template;Story;;;;;0,5;;0,2;0,025;0,125;6,8;0,85;6,8
+Refapp - Phase 1 Release;Storefront Implementation;Cart ;Cart- recommendations;;Story;;;;0,5;0,75;;0,5;0,0625;0,3125;17;2,125;17
+Refapp - P1 Release Cigars.com;Storefront Implementation;Cart ;Cart- recommendations;Assuming standard Site Genesis template;Story;;;;0,5;0,75;;0,5;0,0625;0,3125;17;2,125;17
+Refapp - Phase 1 Release;Data Feeds;Data Feeds;Catalog feed;;Story;;;;2;;;0,8;0,1;0,5;27,2;3,4;27,2
+Refapp - P1 Release Cigars.com;Data Feeds;Data Feeds;Catalog feed;;Story;;;;2;;;0,8;0,1;0,5;27,2;3,4;27,2
+Refapp - Phase 1 Release;Storefront Implementation;Category pages ;Category landing page;Content, refinement;Story;;;;1;1;;0,8;0,1;0,5;27,2;3,4;27,2
+Refapp - P1 Release Cigars.com;Storefront Implementation;Category pages ;Category landing page;Assuming standard Site Genesis template;Story;;;;1;1;;0,8;0,1;0,5;27,2;3,4;27,2
+Refapp - Phase 1 Release;Storefront Implementation;Global Navigation;Category navigation ;;Story;;;;0,5;1,5;;0,8;0,1;0,5;27,2;3,4;27,2
+Refapp - P1 Release Cigars.com;Storefront Implementation;Global Navigation;Category navigation ;Assume content will be similar to existing site;Story;;;;0,5;1,5;;0,8;0,1;0,5;27,2;3,4;27,2
+Refapp - Phase 1 Release;Storefront Implementation;Category pages ;Category results ;Product Grids, Templates, Refinemnt/ filters, Sort by;Story;;;;1;2;;1,2;0,15;0,75;40,8;5,1;40,8
+Refapp - P1 Release Cigars.com;Storefront Implementation;Category pages ;Category results ;Assuming standard Site Genesis template;Story;;;;1;2;;1,2;0,15;0,75;40,8;5,1;40,8
+Refapp - Phase 1 Release;Storefront Implementation;Category pages ;Category side bar navigation ;;Story;;;;;2;;0,8;0,1;0,5;27,2;3,4;27,2
+Refapp - P1 Release Cigars.com;Storefront Implementation;Category pages ;Category side bar navigation ;Assuming standard Site Genesis template;Story;;;;;2;;0,8;0,1;0,5;27,2;3,4;27,2
+Refapp - Phase 1 Release;Backend Integration;Backend Integration;CDN;DIS;Story;;;;3;;;1,2;0,15;0,75;40,8;5,1;40,8
+Refapp - P1 Release Cigars.com;Backend Integration;Backend Integration;CDN;Assume DIS has documented API;Story;;;;3;;;1,2;0,15;0,75;40,8;5,1;40,8
+Refapp - Phase 1 Release;Storefront Implementation;Checkout ;Checkout Billing address;;Story;;;;1;0,5;;0,6;0,075;0,375;20,4;2,55;20,4
+Refapp - P1 Release Cigars.com;Storefront Implementation;Checkout ;Checkout Billing address;Assuming standard Site Genesis template;Story;;;;1;0,5;;0,6;0,075;0,375;20,4;2,55;20,4
+Refapp - Phase 1 Release;Storefront Implementation;Checkout ;Checkout Billing Order Summary ;Sidebar;Story;;;;0,5;0,75;;0,5;0,0625;0,3125;17;2,125;17
+Refapp - P1 Release Cigars.com;Storefront Implementation;Checkout ;Checkout Billing Order Summary ;;Story;;;;0,5;0,75;;0,5;0,0625;0,3125;17;2,125;17
+Refapp - Phase 1 Release;Storefront Implementation;Checkout ;Checkout Billing Payment method ;Credit/ Paypal/ Bill me later;Story;;;;0,75;0,5;;0,5;0,0625;0,3125;17;2,125;17
+Refapp - P1 Release Cigars.com;Storefront Implementation;Checkout ;Checkout Billing Payment method ;Assuming standard Site Genesis template;Story;;;;0,75;0,5;;0,5;0,0625;0,3125;17;2,125;17
+Refapp - Phase 1 Release;Storefront Implementation;Checkout ;Checkout Gift options ;;Story;;;;;0,25;;0,1;0,0125;0,0625;3,4;0,425;3,4
+Refapp - P1 Release Cigars.com;Storefront Implementation;Checkout ;Checkout Gift options ;;Story;;;;0,25;0,25;;0,2;0,025;0,125;6,8;0,85;6,8
+Refapp - Phase 1 Release;Storefront Implementation;Checkout ;Checkout header/ footer;;Story;;;;0,25;0,5;;0,3;0,0375;0,1875;10,2;1,275;10,2
+Refapp - P1 Release Cigars.com;Storefront Implementation;Checkout ;Checkout header/ footer;Assuming standard Site Genesis template;Story;;;;0,25;0,5;;0,3;0,0375;0,1875;10,2;1,275;10,2
+Refapp - Phase 1 Release;Storefront Implementation;Checkout ;Checkout login ;Guests/ Creat account/ Returning customers;Story;;;;0,5;0,5;;0,4;0,05;0,25;13,6;1,7;13,6
+Refapp - P1 Release Cigars.com;Storefront Implementation;Checkout ;Checkout login ;Assuming standard Site Genesis template;Story;;;;0,5;0,5;;0,4;0,05;0,25;13,6;1,7;13,6
+Refapp - Phase 1 Release;Storefront Implementation;Checkout ;Checkout order summary;Order subtotal, Shipping/ Tax, Shipping discount, Order discount, Order total;Story;;;;0,5;0,5;;0,4;0,05;0,25;13,6;1,7;13,6
+Refapp - P1 Release Cigars.com;Storefront Implementation;Checkout ;Checkout order summary;Assuming standard Site Genesis template;Story;;;;0,5;0,5;;0,4;0,05;0,25;13,6;1,7;13,6
+Refapp - Phase 1 Release;Storefront Implementation;Checkout ;Checkout place order ;Order review;Story;;;;0,5;0,5;;0,4;0,05;0,25;13,6;1,7;13,6
+Refapp - P1 Release Cigars.com;Storefront Implementation;Checkout ;Checkout place order ;Assuming standard Site Genesis template;Story;;;;0,5;0,5;;0,4;0,05;0,25;13,6;1,7;13,6
+Refapp - Phase 1 Release;Storefront Implementation;Checkout ;Checkout receipt page;Order confirmation, Confirmation mail;Story;;;;0,5;0,5;;0,4;0,05;0,25;13,6;1,7;13,6
+Refapp - P1 Release Cigars.com;Storefront Implementation;Checkout ;Checkout receipt page;Assuming standard Site Genesis template;Story;;;;0,5;0,5;;0,4;0,05;0,25;13,6;1,7;13,6
+Refapp - Phase 1 Release;Storefront Implementation;Checkout ;Checkout Shipping address;;Story;;;;1;0,75;;0,7;0,0875;0,4375;23,8;2,975;23,8
+Refapp - P1 Release Cigars.com;Storefront Implementation;Checkout ;Checkout Shipping address;Assuming standard Site Genesis template;Story;;;;1;0,75;;0,7;0,0875;0,4375;23,8;2,975;23,8
+Refapp - Phase 1 Release;Storefront Implementation;Checkout ;Checkout shipping method ;;Story;;;;0,5;0,5;;0,4;0,05;0,25;13,6;1,7;13,6
+Refapp - P1 Release Cigars.com;Storefront Implementation;Checkout ;Checkout shipping method ;Assuming standard Site Genesis template;Story;;;;0,5;0,5;;0,4;0,05;0,25;13,6;1,7;13,6
+Refapp - Phase 1 Release;Storefront Implementation;Checkout ;Checkout Shipping Order summary ;Sidebar;Story;;;;0,25;0,75;;0,4;0,05;0,25;13,6;1,7;13,6
+Refapp - P1 Release Cigars.com;Storefront Implementation;Checkout ;Checkout Shipping Order summary ;Assuming standard Site Genesis template;Story;;;;0,25;0,75;;0,4;0,05;0,25;13,6;1,7;13,6
+Refapp - Phase 1 Release;Storefront Implementation;Checkout ;Chekout Billing Coupon code ;;Story;;;;0,5;0,25;;0,3;0,0375;0,1875;10,2;1,275;10,2
+Refapp - P1 Release Cigars.com;Storefront Implementation;Checkout ;Chekout Billing Coupon code ;Assuming standard Site Genesis template;Story;;;;0,5;0,25;;0,3;0,0375;0,1875;10,2;1,275;10,2
+Refapp - Phase 1 Release;Storefront Implementation;Checkout ;Chekout Billing gift certificate ;;Story;;;;0,5;0,25;;0,3;0,0375;0,1875;10,2;1,275;10,2
+Refapp - P1 Release Cigars.com;Storefront Implementation;Checkout ;Chekout Billing gift certificate ;Assuming standard Site Genesis template;Story;;;;0;0;;;;;;;
+JRCigars;Storefront Implementation;Gifts;Cigar of the month club;Monthly, yearly and 6-month subscriptions integrated with Customer record;Story;;;;1;1;;0,8;0,1;0,5;27,2;3,4;27,2
+Refapp - Phase 1 Release;Backend Implementation;Backend Implementation;Cleanup jobs;;Story;;;;2;;;0,8;0,1;0,5;27,2;3,4;27,2
+Refapp - P1 Release Cigars.com;Backend Implementation;Backend Implementation;Cleanup jobs;;Story;;;;2;;;0,8;0,1;0,5;27,2;3,4;27,2
+Refapp - Phase 1 Release;Storefront Implementation;Compare Products;Compare functionality;Bucket,Products;Story;;;;2;2;;1,6;0,2;1;54,4;6,8;54,4
+Refapp - P1 Release Cigars.com;Storefront Implementation;Compare Products;Compare functionality;;Story;;;;0;0;;;;;;;
+Refapp - Phase 1 Release;Release;Release;Complete Demandware Launch Checklist;;Story;;;2;;;;;;2;32;4;32
+New Brand;Release;Release;Complete Demandware Launch Checklist;;Story;0,25;;;;;;;;0,25;4;0,5;4
+Refapp - P1 Release Cigars.com;Release;Release;Complete Demandware Launch Checklist;;Story;;;2;;;;;;2;32;4;32
+JRCigars;Release;Release;Complete Demandware Launch Checklist;;Story;0,25;;;0,25;;;;;0,25;6;0,75;6
+Seriouscigar;Release;Release;Complete Demandware Launch Checklist;;Story;0,25;;;0,25;;;;;0,25;6;0,75;6
+SantaClaraCigars;Release;Release;Complete Demandware Launch Checklist;;Story;0,25;;;0,25;;;;;0,25;6;0,75;6
+Refapp - P1 Release Cigars.com;Storefront Implementation;My Account ;Complete registration ;Assume tokenization with Cybersource;;;;;0,75;0,5;;0,5;0,0625;0,3125;17;2,125;17
+New Country;Backend Implementation;Backend Implementation;Configure Backend Integrations;;Story;;;;1;;;0,4;0,05;0,25;13,6;1,7;13,6
+New Brand;Backend Implementation;Backend Implementation;Configure Backend Integrations;;Story;;;1;1,5;;;0,6;0,075;0,625;30,4;3,8;30,4
+JRCigars;Backend Implementation;Backend Implementation;Configure Backend Integrations;;Story;;;1;1,5;;;0,6;0,075;0,625;30,4;3,8;30,4
+Seriouscigar;Backend Implementation;Backend Implementation;Configure Backend Integrations;;Story;;;1;1,5;;;0,6;0,075;0,625;30,4;3,8;30,4
+SantaClaraCigars;Backend Implementation;Backend Implementation;Configure Backend Integrations;;Story;;;1;1,5;;;0,6;0,075;0,625;30,4;3,8;30,4
+Refapp - Phase 1 Release;SEO;SEO;Configure canonical links ;;Story;;;;0,5;;1,5;0,2;0,025;0,125;18,8;2,35;18,8
+New Country;SEO;SEO;Configure canonical links ;;Story;;;;;;1;;;;8;1;8
+New Brand;SEO;SEO;Configure canonical links ;;Story;;;;0,25;;0,5;0,1;0,0125;0,0625;7,4;0,925;7,4
+New Language;SEO;SEO;Configure canonical links ;;Story;;;;;;0,25;;;;2;0,25;2
+Refapp - P1 Release Cigars.com;SEO;SEO;Configure canonical links ;;Story;;;;0,5;;1,5;0,2;0,025;0,125;18,8;2,35;18,8
+JRCigars;SEO;SEO;Configure canonical links ;;Story;;;;0,25;;0,5;0,1;0,0125;0,0625;7,4;0,925;7,4
+Seriouscigar;SEO;SEO;Configure canonical links ;;Story;;;;0,25;;0,5;0,1;0,0125;0,0625;7,4;0,925;7,4
+SantaClaraCigars;SEO;SEO;Configure canonical links ;;Story;;;;0,25;;0,5;0,1;0,0125;0,0625;7,4;0,925;7,4
+New Country;Backend Implementation;Backend Implementation;Configure Catalog and pricebooks;;Story;;;;1;;;0,4;0,05;0,25;13,6;1,7;13,6
+New Brand;Backend Implementation;Backend Implementation;Configure Catalog and pricebooks;;Story;;;;2;;;0,8;0,1;0,5;27,2;3,4;27,2
+JRCigars;Backend Implementation;Backend Implementation;Configure Catalog and pricebooks;;Story;;;;2;;;0,8;0,1;0,5;27,2;3,4;27,2
+Seriouscigar;Backend Implementation;Backend Implementation;Configure Catalog and pricebooks;;Story;;;;2;;;0,8;0,1;0,5;27,2;3,4;27,2
+SantaClaraCigars;Backend Implementation;Backend Implementation;Configure Catalog and pricebooks;;Story;;;;2;;;0,8;0,1;0,5;27,2;3,4;27,2
+Refapp - Phase 1 Release;Backend Implementation;Backend Implementation;Configure Catalogs;;Story;;;;2;;;0,8;0,1;0,5;27,2;3,4;27,2
+New Language;Backend Implementation;Backend Implementation;Configure Catalogs;;Story;;;;1;;;0,4;0,05;0,25;13,6;1,7;13,6
+Refapp - P1 Release Cigars.com;Backend Implementation;Backend Implementation;Configure Catalogs;;Story;;;;2;;;0,8;0,1;0,5;27,2;3,4;27,2
+Refapp - Phase 1 Release;Backend Implementation;Backend Implementation;Configure Demandware Site;;Story;;;;1;;;0,4;0,05;0,25;13,6;1,7;13,6
+Refapp - P1 Release Cigars.com;Backend Implementation;Backend Implementation;Configure Demandware Site;;Story;;;;1;;;0,4;0,05;0,25;13,6;1,7;13,6
+New Country;Backend Implementation;Backend Implementation;Configure Feeds;;Story;;;;1;;;0,4;0,05;0,25;13,6;1,7;13,6
+New Brand;Backend Implementation;Backend Implementation;Configure Feeds;;Story;;;;0,5;;;0,2;0,025;0,125;6,8;0,85;6,8
+JRCigars;Backend Implementation;Backend Implementation;Configure Feeds;;Story;;;;0,5;;;0,2;0,025;0,125;6,8;0,85;6,8
+Seriouscigar;Backend Implementation;Backend Implementation;Configure Feeds;;Story;;;;0,5;;;0,2;0,025;0,125;6,8;0,85;6,8
+SantaClaraCigars;Backend Implementation;Backend Implementation;Configure Feeds;;Story;;;;0,5;;;0,2;0,025;0,125;6,8;0,85;6,8
+Refapp - Phase 1 Release;Backend Implementation;Backend Implementation;Configure inventory lists;;Story;;;;2;;;0,8;0,1;0,5;27,2;3,4;27,2
+Refapp - P1 Release Cigars.com;Backend Implementation;Backend Implementation;Configure inventory lists;;Story;;;;2;;;0,8;0,1;0,5;27,2;3,4;27,2
+New Language;Backend Implementation;Backend Implementation;Configure Locale;;Story;;;;0,5;;;0,2;0,025;0,125;6,8;0,85;6,8
+New Country;Backend Implementation;Backend Implementation;Configure New Site;;Story;;;;1;;;0,4;0,05;0,25;13,6;1,7;13,6
+New Brand;Backend Implementation;Backend Implementation;Configure New Site;;Story;;;;1;;;0,4;0,05;0,25;13,6;1,7;13,6
+JRCigars;Backend Implementation;Backend Implementation;Configure New Site;;Story;;;;1;;;0,4;0,05;0,25;13,6;1,7;13,6
+Seriouscigar;Backend Implementation;Backend Implementation;Configure New Site;;Story;;;;1;;;0,4;0,05;0,25;13,6;1,7;13,6
+SantaClaraCigars;Backend Implementation;Backend Implementation;Configure New Site;;Story;;;;1;;;0,4;0,05;0,25;13,6;1,7;13,6
+Refapp - Phase 1 Release;Backend Implementation;Backend Implementation;Configure Price Books;;Story;;;;2;;;0,8;0,1;0,5;27,2;3,4;27,2
+Refapp - P1 Release Cigars.com;Backend Implementation;Backend Implementation;Configure Price Books;;Story;;;;2;;;0,8;0,1;0,5;27,2;3,4;27,2
+Refapp - Phase 1 Release;Backend Implementation;Backend Implementation;Configure Tax Table;;Story;;;;1;;;0,4;0,05;0,25;13,6;1,7;13,6
+Refapp - P1 Release Cigars.com;Backend Implementation;Backend Implementation;Configure Tax Table;;Story;;;;1;;;0,4;0,05;0,25;13,6;1,7;13,6
+Refapp - Phase 1 Release;Storefront Implementation;Non product pages ;Contact us page;;Story;;;;0,5;0,75;;0,5;0,0625;0,3125;17;2,125;17
+Refapp - P1 Release Cigars.com;Storefront Implementation;Non product pages ;Contact us page;Assuming content will be similar to existing pages;Story;;;;0,5;0,75;;0,5;0,0625;0,3125;17;2,125;17
+Refapp - Phase 1 Release;Storefront Implementation;Homepage;Content;HTML, images, Carousel;Story;;;;;1,5;;0,6;0,075;0,375;20,4;2,55;20,4
+Refapp - P1 Release Cigars.com;Storefront Implementation;Homepage;Content;Assume content will be similar to existing site;Story;;;;;1,5;;0,6;0,075;0,375;20,4;2,55;20,4
+Refapp - Phase 1 Release;Storefront Implementation;Global Navigation;Content assets;Graphic/ HTML;Story;;;;;0,5;;0,2;0,025;0,125;6,8;0,85;6,8
+Refapp - P1 Release Cigars.com;Storefront Implementation;Global Navigation;Content assets;Assume content will be similar to existing site;Story;;;;;0,5;;0,2;0,025;0,125;6,8;0,85;6,8
+New Country;Storefront Implementation;Storefront Implementation;Content management ;;Story;;;;;3;;1,2;0,15;0,75;40,8;5,1;40,8
+New Brand;Storefront Implementation;Storefront Implementation;Content management ;;Story;;;;;2;;0,8;0,1;0,5;27,2;3,4;27,2
+New Language;Storefront Implementation;Storefront Implementation;Content management ;;Story;;;;;2;;0,8;0,1;0,5;27,2;3,4;27,2
+JRCigars;Storefront Implementation;Storefront Implementation;Content management ;;Story;;;;;2;;0,8;0,1;0,5;27,2;3,4;27,2
+Seriouscigar;Storefront Implementation;Storefront Implementation;Content management ;;Story;;;;;2;;0,8;0,1;0,5;27,2;3,4;27,2
+SantaClaraCigars;Storefront Implementation;Storefront Implementation;Content management ;;Story;;;;;2;;0,8;0,1;0,5;27,2;3,4;27,2
+Refapp - Phase 1 Release;Storefront Implementation;Header;Cookie policy;;Story;;;;0,5;0,5;;0,4;0,05;0,25;13,6;1,7;13,6
+Refapp - P1 Release Cigars.com;Storefront Implementation;Header;Cookie policy;Assume content will be similar to existing site;Story;;;;0,5;0,5;;0,4;0,05;0,25;13,6;1,7;13,6
+Refapp - Phase 1 Release;Storefront Implementation;Header;Country selector;country/language/currency;Story;;;;0,25;0,5;;0,3;0,0375;0,1875;10,2;1,275;10,2
+Refapp - P1 Release Cigars.com;Storefront Implementation;Header;Country selector;;Story;;;;0;0;;;;;;;
+Refapp - Phase 1 Release;Storefront Implementation;My Account ;Create account page;;Story;;;;0,5;1;;0,6;0,075;0,375;20,4;2,55;20,4
+Refapp - P1 Release Cigars.com;Storefront Implementation;My Account ;Create account page;Assuming standard Site Genesis template;Story;;;;0,5;1;;0,6;0,075;0,375;20,4;2,55;20,4
+Discovery & Documentation;SPECS & CREATIVES;Documentation;Create Architecture Diagram - Ecosystem;;Story;;;1;;0,5;;;;0,375;15;1,875;15
+Discovery & Documentation;SPECS & CREATIVES;Documentation;Create Architecture Diagram - SFCC;;Story;;;1;;0,5;;;;0,375;15;1,875;15
+Discovery & Documentation;SPECS & CREATIVES;Documentation;Create Drop 1  FSD  (Global elements and Homepage);;Story;;4;;;;;;;1;40;5;40
+Discovery & Documentation;SPECS & CREATIVES;Documentation;Create Drop 2  FSD  (CLP, PLP, Search, 404);;Story;;6;;;;;;;1,5;60;7,5;60
+Discovery & Documentation;SPECS & CREATIVES;Documentation;Create Drop 3  FSD  ( PDP, quick view );;Story;;6;;;;;;;1,5;60;7,5;60
+Discovery & Documentation;SPECS & CREATIVES;Documentation;Create Drop 4  FSD  (Checkout);;Story;;8;;;;;;;2;80;10;80
+Discovery & Documentation;SPECS & CREATIVES;Documentation;Create Drop 5 FSD  (My account);;Story;;6;;;;;;;1,5;60;7,5;60
+Discovery & Documentation;SPECS & CREATIVES;Documentation;Create Drop 6  FSD  (Customer service pages);;Story;;8;;;;;;;2;80;10;80
+Refapp - Phase 1 Release;SEO;SEO;Create sitemap and robots file;;Story;;;;0,5;;1,5;0,2;0,025;0,125;18,8;2,35;18,8
+New Country;SEO;SEO;Create sitemap and robots file;;Story;;;;;;0,5;;;;4;0,5;4
+New Brand;SEO;SEO;Create sitemap and robots file;;Story;;;;0,25;;0,5;0,1;0,0125;0,0625;7,4;0,925;7,4
+New Language;SEO;SEO;Create sitemap and robots file;;Story;;;;;;0,25;;;;2;0,25;2
+Refapp - P1 Release Cigars.com;SEO;SEO;Create sitemap and robots file;;Story;;;;0,5;;1,5;0,2;0,025;0,125;18,8;2,35;18,8
+JRCigars;SEO;SEO;Create sitemap and robots file;;Story;;;;0,25;;0,5;0,1;0,0125;0,0625;7,4;0,925;7,4
+Seriouscigar;SEO;SEO;Create sitemap and robots file;;Story;;;;0,25;;0,5;0,1;0,0125;0,0625;7,4;0,925;7,4
+SantaClaraCigars;SEO;SEO;Create sitemap and robots file;;Story;;;;0,25;;0,5;0,1;0,0125;0,0625;7,4;0,925;7,4
+Discovery & Documentation;SPECS & CREATIVES;Documentation;Create TSD/ISD;;Story;1;1;10;;2;;;;3,5;140;17,5;140
+Refapp - Phase 1 Release;Storefront Implementation;Global Elements;CSS Grid / Implement Style Guide / Framework Setup;;Story;;;;;5;;2;0,25;1,25;68;8,5;68
+Refapp - P1 Release Cigars.com;Storefront Implementation;Global Elements;CSS Grid / Implement Style Guide / Framework Setup;;Story;;;;;5;;2;0,25;1,25;68;8,5;68
+Refapp - P1 Release Cigars.com;Storefront Implementation;Non product pages ;Custom Pages;;Story;;;;0,5;2;;1;0,125;0,625;34;4,25;34
+Refapp - P1 Release Cigars.com;Storefront Implementation;Non product pages ;Custom Pages;Assume shipping provider exposes APIs for tracking;;;;;0,5;2;;1;0,125;0,625;34;4,25;34
+Refapp - Phase 1 Release;Storefront Implementation;Customer Service ;Customer service - left navigation ;Navigation links to Contact us, Privacy policy, Ordering, Shipping, Returns, My account, T&C;Story;;;;0,25;1;;0,5;0,0625;0,3125;17;2,125;17
+Refapp - P1 Release Cigars.com;Storefront Implementation;Customer Service ;Customer service - left navigation ;Assuming content will be similar to existing pages;Story;;;;0,25;1;;0,5;0,0625;0,3125;17;2,125;17
+Refapp - Phase 1 Release;Storefront Implementation;Customer Service ;Customer service landing ;;Story;;;;0,25;1;;0,5;0,0625;0,3125;17;2,125;17
+Refapp - P1 Release Cigars.com;Storefront Implementation;Customer Service ;Customer service landing ;Assuming content will be similar to existing pages;Story;;;;0,25;1;;0,5;0,0625;0,3125;17;2,125;17
+New Country;Backend Implementation;Backend Implementation;Customize Checkout to support country specific (address fields and validations);;Story;;;;1;0,5;;0,6;0,075;0,375;20,4;2,55;20,4
+New Brand;Backend Implementation;Backend Implementation;Customize Checkout to support country specific (address fields and validations);;Story;;;;0,5;;;0,2;0,025;0,125;6,8;0,85;6,8
+JRCigars;Backend Implementation;Backend Implementation;Customize Checkout to support country specific (address fields and validations);;Story;;;;0,5;;;0,2;0,025;0,125;6,8;0,85;6,8
+Seriouscigar;Backend Implementation;Backend Implementation;Customize Checkout to support country specific (address fields and validations);;Story;;;;0,5;;;0,2;0,025;0,125;6,8;0,85;6,8
+SantaClaraCigars;Backend Implementation;Backend Implementation;Customize Checkout to support country specific (address fields and validations);;Story;;;;0,5;;;0,2;0,025;0,125;6,8;0,85;6,8
+Refapp - Phase 1 Release;SEO;SEO;Define SEO friendly URLs;;Story;;;;0,5;;1,5;0,2;0,025;0,125;18,8;2,35;18,8
+New Country;SEO;SEO;Define SEO friendly URLs;;Story;;;;;;0,5;;;;4;0,5;4
+New Brand;SEO;SEO;Define SEO friendly URLs;;Story;;;;0,25;;0,5;0,1;0,0125;0,0625;7,4;0,925;7,4
+New Language;SEO;SEO;Define SEO friendly URLs;;Story;;;;;;0,25;;;;2;0,25;2
+Refapp - P1 Release Cigars.com;SEO;SEO;Define SEO friendly URLs;;Story;;;;0,5;;1,5;0,2;0,025;0,125;18,8;2,35;18,8
+JRCigars;SEO;SEO;Define SEO friendly URLs;;Story;;;;0,25;;0,5;0,1;0,0125;0,0625;7,4;0,925;7,4
+Seriouscigar;SEO;SEO;Define SEO friendly URLs;;Story;;;;0,25;;0,5;0,1;0,0125;0,0625;7,4;0,925;7,4
+SantaClaraCigars;SEO;SEO;Define SEO friendly URLs;;Story;;;;0,25;;0,5;0,1;0,0125;0,0625;7,4;0,925;7,4
+New Brand;Gap Analysis & Discovery & Designs;Gap Analysis & Discovery & Designs;Design creatives (adjusting current UI to Site Genesis) and update FSDs;;Story;;2,5;;;;;10;;;100;12,5;100
+JRCigars;Gap Analysis & Discovery & Designs;Gap Analysis & Discovery & Designs;Design creatives (adjusting current UI to Site Genesis) and update FSDs;;Story;;2,5;;;;;10;;;100;12,5;100
+Seriouscigar;Gap Analysis & Discovery & Designs;Gap Analysis & Discovery & Designs;Design creatives (adjusting current UI to Site Genesis) and update FSDs;;Story;;2,5;;;;;10;;;100;12,5;100
+SantaClaraCigars;Gap Analysis & Discovery & Designs;Gap Analysis & Discovery & Designs;Design creatives (adjusting current UI to Site Genesis) and update FSDs;;Story;;2,5;;;;;10;;;100;12,5;100
+Refapp - P1 Release Cigars.com;Dual Teams Overlap;Support;Dual teams overlap;;Story;;12;10;10;10;;12;;15;552;69;552
+Refapp - Phase 1 Release;Storefront Implementation;My Account ;Edit Personal data page ;Personal data, passwords;Story;;;;1;0,5;;0,6;0,075;0,375;20,4;2,55;20,4
+Refapp - P1 Release Cigars.com;Storefront Implementation;My Account ;Edit Personal data page ;Assuming standard Site Genesis template;Story;;;;1;0,5;;0,6;0,075;0,375;20,4;2,55;20,4
+Refapp - Phase 1 Release;Storefront Implementation;Footer;Email sign up ;Promotion materials, special offers;Story;;;;0,5;0,5;;0,4;0,05;0,25;13,6;1,7;13,6
+Refapp - P1 Release Cigars.com;Storefront Implementation;Footer;Email sign up ;Assume content will be similar to existing site;Story;;;;0,5;0,5;;0,4;0,05;0,25;13,6;1,7;13,6
+New Country;Storefront Implementation;Storefront Implementation;Embed Translations in resource files;;Story;;;;;1;;0,4;0,05;0,25;13,6;1,7;13,6
+Refapp - Phase 1 Release;Storefront Implementation;Non product pages ;Error pages from BM ;;Story;;;;0,25;1;;0,5;0,0625;0,3125;17;2,125;17
+Refapp - P1 Release Cigars.com;Storefront Implementation;Non product pages ;Error pages from BM ;;Story;;;;0,25;1;;0,5;0,0625;0,3125;17;2,125;17
+Refapp - Phase 1 Release;Storefront Implementation;Non product pages ;FAQ;;Story;;;;1;3;;1,6;0,2;1;54,4;6,8;54,4
+Refapp - P1 Release Cigars.com;Storefront Implementation;Non product pages ;FAQ;Assuming content will be similar to existing pages;Story;;;;1;3;;1,6;0,2;1;54,4;6,8;54,4
+Refapp - P1 Release Cigars.com;Storefront Implementation;My Account ;Feed;Assume API integration with juicer.io for feed management;;;;;0,5;0,5;;0,4;0,05;0,25;13,6;1,7;13,6
+Refapp - P1 Release Cigars.com;Backend Integration;Backend Integration;Feeds;Assume building integration with juicer.io;;;;;1;;;0,4;0,05;0,25;13,6;1,7;13,6
+Refapp - Phase 1 Release;Storefront Implementation;Footer;Footer Social icons ;;Story;;;;0,25;0,25;;0,2;0,025;0,125;6,8;0,85;6,8
+Refapp - P1 Release Cigars.com;Storefront Implementation;Footer;Footer Social icons ;Assume content will be similar to existing site;Story;;;;0,25;0,25;;0,2;0,025;0,125;6,8;0,85;6,8
+Discovery & Documentation;SPECS & CREATIVES;Documentation;FSD Review;;Story;;;1;;1;;;;0,5;20;2,5;20
+Refapp - Phase 1 Release;Storefront Implementation;Non product pages ;General error page;Error occurs in the application;Story;;;;1;3;;1,6;0,2;1;54,4;6,8;54,4
+Refapp - P1 Release Cigars.com;Storefront Implementation;Non product pages ;General error page;;Story;;;;1;3;;1,6;0,2;1;54,4;6,8;54,4
+JRCigars;Storefront Implementation;Gifts;Gift cards;Assuming these are physical gift cards purchased as a standard inventory item;Story;;;;0,25;1;;0,5;0,0625;0,3125;17;2,125;17
+Refapp - Phase 1 Release;Storefront Implementation;Gift Certificates ;Gift Certificate content ;Gift details, Gift check balance, Gift additional details;Story;;;;1;0,5;;0,6;0,075;0,375;20,4;2,55;20,4
+Refapp - P1 Release Cigars.com;Storefront Implementation;Gift Certificates ;Gift Certificate content ;;Story;;;;0;0;;;;;;;
+Refapp - Phase 1 Release;Storefront Implementation;Gift Certificates ;Gift Certificate Purchase ;Cart, Shipping message, Active message, Checkout, Coupon/discount code, Confirmation;Story;;;;2;1;;1,2;0,15;0,75;40,8;5,1;40,8
+Refapp - P1 Release Cigars.com;Storefront Implementation;Gift Certificates ;Gift Certificate Purchase ;;Story;;;;0;0;;;;;;;
+JRCigars;Storefront Implementation;Gifts;Gift Certificates;Assuming these are the digital gift cards with perpetual inventory;Story;;;;1;0,5;;0,6;0,075;0,375;20,4;2,55;20,4
+Refapp - Phase 1 Release;Storefront Implementation;Gift Certificates ;Gift Certificates Account Navigation ;Customer information;Story;;;;1;1;;0,8;0,1;0,5;27,2;3,4;27,2
+Refapp - P1 Release Cigars.com;Storefront Implementation;Gift Certificates ;Gift Certificates Account Navigation ;;Story;;;;0;0;;;;;;;
+Refapp - Phase 1 Release;Storefront Implementation;Gift Registry ;Gift Registry -  Registrant(s) view;Registry/Event info/ Shipping info/Purchase;Story;;;;0,5;1;;0,6;0,075;0,375;20,4;2,55;20,4
+Refapp - P1 Release Cigars.com;Storefront Implementation;Gift Registry ;Gift Registry -  Registrant(s) view;;Story;;;;0;0;;;;;;;
+Refapp - Phase 1 Release;Storefront Implementation;Gift Registry ;Gift Registry - Confirmation;Event Information;Story;;;;0,5;1;;0,6;0,075;0,375;20,4;2,55;20,4
+Refapp - P1 Release Cigars.com;Storefront Implementation;Gift Registry ;Gift Registry - Confirmation;;Story;;;;0;0;;;;;;;
+Refapp - Phase 1 Release;Storefront Implementation;Gift Registry ;Gift Registry - Event/ Participant;Create events, Participant information;Story;;;;0,5;1;;0,6;0,075;0,375;20,4;2,55;20,4
+Refapp - P1 Release Cigars.com;Storefront Implementation;Gift Registry ;Gift Registry - Event/ Participant;;Story;;;;0;0;;;;;;;
+Refapp - Phase 1 Release;Storefront Implementation;Gift Registry ;Gift Registry - New/ returning customers;Register/ sign up, Login;Story;;;;0,5;1;;0,6;0,075;0,375;20,4;2,55;20,4
+Refapp - P1 Release Cigars.com;Storefront Implementation;Gift Registry ;Gift Registry - New/ returning customers;;Story;;;;0;0;;;;;;;
+Refapp - Phase 1 Release;Storefront Implementation;Gift Registry ;Gift Registry - Search/ Create;Search result, Search gift registry, Create gift registry;Story;;;;0,5;1;;0,6;0,075;0,375;20,4;2,55;20,4
+Refapp - P1 Release Cigars.com;Storefront Implementation;Gift Registry ;Gift Registry - Search/ Create;;Story;;;;0;0;;;;;;;
+Refapp - Phase 1 Release;Storefront Implementation;Gift Registry ;Gift Registry - Shipping;Event shipping, Post event shipping ;Story;;;;0,5;1;;0,6;0,075;0,375;20,4;2,55;20,4
+Refapp - P1 Release Cigars.com;Storefront Implementation;Gift Registry ;Gift Registry - Shipping;;Story;;;;0;0;;;;;;;
+Refapp - Phase 1 Release;Storefront Implementation;Cart ;Gift Wrapping ;;Story;;;;0,5;0,5;;0,4;0,05;0,25;13,6;1,7;13,6
+Refapp - P1 Release Cigars.com;Storefront Implementation;Cart ;Gift Wrapping ;Assuming standard Site Genesis template;Story;;;;0,5;0,5;;0,4;0,05;0,25;13,6;1,7;13,6
+JRCigars;Storefront Implementation;Gifts;Give JR Plus;gift or buy, assume gifting leverages redemption code similar to digital gift cards;Story;;;;0,5;1;;0,6;0,075;0,375;20,4;2,55;20,4
+Refapp - Phase 1 Release;Storefront Implementation;Header;Header general style ;logo/ icons for stores, login, cart;Story;;;;;0,5;;0,2;0,025;0,125;6,8;0,85;6,8
+Refapp - P1 Release Cigars.com;Storefront Implementation;Header;Header general style ;Assume content will be similar to existing site;Story;;;;;0,5;;0,2;0,025;0,125;6,8;0,85;6,8
+Refapp - Phase 1 Release;Storefront Implementation;Header;Header Links;home, stores, login,cart;Story;;;;0,25;0,5;;0,3;0,0375;0,1875;10,2;1,275;10,2
+Refapp - P1 Release Cigars.com;Storefront Implementation;Header;Header Links;Assume content will be similar to existing site;Story;;;;0,25;0,5;;0,3;0,0375;0,1875;10,2;1,275;10,2
+JRCigars;Storefront Implementation;Header;Header Links;JR Cigars, JR Auctions, JR Blending room, Beat the dealer;Story;;;;;2;;0,8;0,1;0,5;27,2;3,4;27,2
+New Country;Release;Release;Import  and fix content on staging;;Story;;;;;1;;;;;8;1;8
+Refapp - Phase 1 Release;Release;Release;Import and fix content on staging ;;Story;;;;;3,5;;;;;28;3,5;28
+Refapp - P1 Release Cigars.com;Release;Release;Import and fix content on staging ;;Story;;;;;3,5;;;;;28;3,5;28
+New Brand;Release;Release;Import content on staging;;Story;;;0,5;0,5;;;;;;8;1;8
+New Language;Release;Release;Import content on staging;;Story;;;;;1;;;;;8;1;8
+JRCigars;Release;Release;Import content on staging;;Story;;;0,5;0,5;;;;;;8;1;8
+Seriouscigar;Release;Release;Import content on staging;;Story;;;0,5;0,5;;;;;;8;1;8
+SantaClaraCigars;Release;Release;Import content on staging;;Story;;;0,5;0,5;;;;;;8;1;8
+Refapp - Phase 1 Release;One Time Feeds;One Time Feeds;Import DW compliant customer data + password reset;;Story;;;;3;;;1,2;0,15;0,75;40,8;5,1;40,8
+Refapp - P1 Release Cigars.com;One Time Feeds;One Time Feeds;Import DW compliant customer data + password reset;Assume data provided by client in SFCC compatible XML format;Story;;;;3;;;1,2;0,15;0,75;40,8;5,1;40,8
+JRCigars;One Time Feeds;One Time Feeds;Import DW compliant customer data + password reset;Assume data provided by client in SFCC compatible XML format;Story;;;;3;;;1,2;0,15;0,75;40,8;5,1;40,8
+Seriouscigar;One Time Feeds;One Time Feeds;Import DW compliant customer data + password reset;Assume data provided by client in SFCC compatible XML format;Story;;;;3;;;1,2;0,15;0,75;40,8;5,1;40,8
+SantaClaraCigars;One Time Feeds;One Time Feeds;Import DW compliant customer data + password reset;Assume data provided by client in SFCC compatible XML format;Story;;;;3;;;1,2;0,15;0,75;40,8;5,1;40,8
+Refapp - Phase 1 Release;One Time Feeds;One Time Feeds;Import legacy orders;;Story;;;;3;;;1,2;0,15;0,75;40,8;5,1;40,8
+Refapp - P1 Release Cigars.com;One Time Feeds;One Time Feeds;Import legacy orders;Assume data provided by client in SFCC compatible XML format;Story;;;;3;;;1,2;0,15;0,75;40,8;5,1;40,8
+JRCigars;One Time Feeds;One Time Feeds;Import legacy orders;Assume data provided by client in SFCC compatible XML format;Story;;;;3;;;1,2;0,15;0,75;40,8;5,1;40,8
+Seriouscigar;One Time Feeds;One Time Feeds;Import legacy orders;Assume data provided by client in SFCC compatible XML format;Story;;;;3;;;1,2;0,15;0,75;40,8;5,1;40,8
+SantaClaraCigars;One Time Feeds;One Time Feeds;Import legacy orders;Assume data provided by client in SFCC compatible XML format;Story;;;;3;;;1,2;0,15;0,75;40,8;5,1;40,8
+Seriouscigar;Storefront Implementation;My Account ;Import your FB photo (if you are not logged in via FB then the button do anything but wanted to note that the button appears no matter what);Assume API integration with Facebook for purposes of importing photo;;;;;0,5;0,5;;0,4;0,05;0,25;13,6;1,7;13,6
+Refapp - Phase 1 Release;Release;Release;Install and configure integration platform for live usage;;Story;;;;2;;;;;;16;2;16
+New Country;Release;Release;Install and configure integration platform for live usage;;Story;;;;1;1;;;;;16;2;16
+New Brand;Release;Release;Install and configure integration platform for live usage;;Story;0,25;;;;;;;;;2;0,25;2
+New Language;Release;Release;Install and configure integration platform for live usage;;Story;;;;0,5;;;;;;4;0,5;4
+Refapp - P1 Release Cigars.com;Release;Release;Install and configure integration platform for live usage;;Story;;;;2;;;;;;16;2;16
+JRCigars;Release;Release;Install and configure integration platform for live usage;;Story;0,25;;;0,25;;;;;;4;0,5;4
+Seriouscigar;Release;Release;Install and configure integration platform for live usage;;Story;0,25;;;0,25;;;;;;4;0,5;4
+SantaClaraCigars;Release;Release;Install and configure integration platform for live usage;;Story;0,25;;;0,25;;;;;;4;0,5;4
+Refapp - Phase 1 Release;Storefront Implementation;InStore pick up;InStore pickup;Select store ;Story;;;;1;1,5;;1;0,125;0,625;34;4,25;34
+Refapp - P1 Release Cigars.com;Storefront Implementation;InStore pick up;InStore pickup;;Story;;;;0;0;;;;;;;
+Refapp - Phase 1 Release;Storefront Implementation;InStore pick up;InStore pickup- Billing page;;Story;;;;;0,5;;0,2;0,025;0,125;6,8;0,85;6,8
+Refapp - P1 Release Cigars.com;Storefront Implementation;InStore pick up;InStore pickup- Billing page;;Story;;;;0;0;;;;;;;
+Refapp - Phase 1 Release;Storefront Implementation;InStore pick up;InStore pickup- cart page;;Story;;;;0,5;1;;0,6;0,075;0,375;20,4;2,55;20,4
+Refapp - P1 Release Cigars.com;Storefront Implementation;InStore pick up;InStore pickup- cart page;;Story;;;;0;0;;;;;;;
+Refapp - Phase 1 Release;Storefront Implementation;InStore pick up;InStore pickup- Order confirmation;;Story;;;;;0,5;;0,2;0,025;0,125;6,8;0,85;6,8
+Refapp - P1 Release Cigars.com;Storefront Implementation;InStore pick up;InStore pickup- Order confirmation;;Story;;;;0;0;;;;;;;
+Refapp - Phase 1 Release;Storefront Implementation;InStore pick up;InStore pickup- Order history/ summary page;;Story;;;;;0,5;;0,2;0,025;0,125;6,8;0,85;6,8
+Refapp - P1 Release Cigars.com;Storefront Implementation;InStore pick up;InStore pickup- Order history/ summary page;;Story;;;;0;0;;;;;;;
+Refapp - Phase 1 Release;Storefront Implementation;InStore pick up;InStore pickup- Place order page;;Story;;;;;0,5;;0,2;0,025;0,125;6,8;0,85;6,8
+Refapp - P1 Release Cigars.com;Storefront Implementation;InStore pick up;InStore pickup- Place order page;;Story;;;;0;0;;;;;;;
+Refapp - Phase 1 Release;Storefront Implementation;InStore pick up;InStore pickup- Produc details/ Quick view;Check store availability;Story;;;;0,5;1;;0,6;0,075;0,375;20,4;2,55;20,4
+Refapp - P1 Release Cigars.com;Storefront Implementation;InStore pick up;InStore pickup- Produc details/ Quick view;;Story;;;;0;0;;;;;;;
+Refapp - Phase 1 Release;Storefront Implementation;InStore pick up;InStore pickup- Shipping address;Multi shipping/ Single shipping;Story;;;;0,5;1;;0,6;0,075;0,375;20,4;2,55;20,4
+Refapp - P1 Release Cigars.com;Storefront Implementation;InStore pick up;InStore pickup- Shipping address;;Story;;;;0;0;;;;;;;
+Refapp - Phase 1 Release;Storefront Implementation;InStore pick up;InStore pickup- Shipping method page;;Story;;;;0,5;1;;0,6;0,075;0,375;20,4;2,55;20,4
+Refapp - P1 Release Cigars.com;Storefront Implementation;InStore pick up;InStore pickup- Shipping method page;;Story;;;;0;0;;;;;;;
+Refapp - Phase 1 Release;Storefront Implementation;PDP;Inventory;Availibility, alert message, back to stock;Story;;;;1;1;;0,8;0,1;0,5;27,2;3,4;27,2
+Refapp - P1 Release Cigars.com;Storefront Implementation;PDP;Inventory;Assuming standard Site Genesis template;Story;;;;1;1;;0,8;0,1;0,5;27,2;3,4;27,2
+Refapp - Phase 1 Release;Data Feeds;Data Feeds;Inventory feed;;Story;;;;2;;;0,8;0,1;0,5;27,2;3,4;27,2
+Refapp - P1 Release Cigars.com;Data Feeds;Data Feeds;Inventory feed;;Story;;;;2;;;0,8;0,1;0,5;27,2;3,4;27,2
+Refapp - P1 Release Cigars.com;Investigation;Support;Investigation Task;;Story;;;7;;;;;;;56;7;56
+JRCigars;Investigation;Support;Investigation Task;;Story;;;2,075;;;;;;;16,6;2,075;16,6
+Seriouscigar;Investigation;Support;Investigation Task;;Story;;;1,5325;;;;;;;12,26;1,5325;12,26
+SantaClaraCigars;Investigation;Support;Investigation Task;;Story;;;1,37;;;;;;;10,96;1,37;10,96
+Seriouscigar;Storefront Implementation;Non product pages ;Invite a friend;Assuming integration with 3rd party loyalty program w/ well documented API;;;;;1;1;;0,8;0,1;0,5;27,2;3,4;27,2
+JRCigars;Storefront Implementation;Header;Invite Friends;Assuming loyalty program integration completed in Refapp;Story;;;;0,5;0,5;;0,4;0,05;0,25;13,6;1,7;13,6
+JRCigars;Storefront Implementation;Custom Pages;JR Auctions;Assuming this is will just be linking to current auctions site;Story;;;;0,25;;;0,1;0,0125;0,0625;3,4;0,425;3,4
+JRCigars;Storefront Implementation;Custom Pages;JR Blending room;Assuming this will be an aliased WP content;Story;;;;0,25;;;0,1;0,0125;0,0625;3,4;0,425;3,4
+JRCigars;Storefront Implementation;Custom Pages;JR Blending room >> What's trending now ;Assume this is a modularized recommendations component for rendering on WP site ;Story;;;;0,25;1;;0,5;0,0625;0,3125;17;2,125;17
+JRCigars;Backend Implementation;Backend Implementation;JR Plus membership integration;Assume handling of membership marketing aspects (emails and notifications) will be handled outside of SFCC implementation;Story;;;;1;;;0,4;0,05;0,25;13,6;1,7;13,6
+JRCigars;Storefront Implementation;Non-Product Pages;JR Price Match Guarantee, JR Affiliate Program;Assuming content will be similar to existing pages;Story;;;;;2;;0,8;0,1;0,5;27,2;3,4;27,2
+Refapp - Phase 1 Release;Storefront Implementation;My Account ;Landing page;;Story;;;;0,5;0,5;;0,4;0,05;0,25;13,6;1,7;13,6
+Refapp - P1 Release Cigars.com;Storefront Implementation;My Account ;Landing page;Assuming standard Site Genesis template;Story;;;;0,5;0,5;;0,4;0,05;0,25;13,6;1,7;13,6
+Refapp - Phase 1 Release;Storefront Implementation;My Account ;Left Navigation- registered;Overview,  Personal Data, Addresses, Payment setting, Wishlist, Orders information, Gift registries, Shop confidently;Story;;;;0,5;0,75;;0,5;0,0625;0,3125;17;2,125;17
+Refapp - P1 Release Cigars.com;Storefront Implementation;My Account ;Left Navigation- registered;;Story;;;;0,5;0,75;;0,5;0,0625;0,3125;17;2,125;17
+Refapp - Phase 1 Release;Storefront Implementation;My Account ;Left Navigation- unregistered;Account setting links, Ship confidently, Account navigation content;Story;;;;0,5;0,75;;0,5;0,0625;0,3125;17;2,125;17
+Refapp - P1 Release Cigars.com;Storefront Implementation;My Account ;Left Navigation- unregistered;;Story;;;;0,5;0,75;;0,5;0,0625;0,3125;17;2,125;17
+Refapp - Phase 1 Release;Prestart Activities;SRA;Load Testing Support;m;Story;;;;2;1;;;;1;32;4;32
+Refapp - P1 Release Cigars.com;Site Readiness Assessment;SRA;Load Testing Support;;Story;;;;2;1;;;;1;32;4;32
+Refapp - Phase 1 Release;Storefront Implementation;My Account ;Login- track Order ;;Story;;;;0,5;1;;0,6;0,075;0,375;20,4;2,55;20,4
+Refapp - P1 Release Cigars.com;Storefront Implementation;My Account ;Login- track Order ;Assume API integration with current shipping provider(s);Story;;;;0,5;1;;0,6;0,075;0,375;20,4;2,55;20,4
+Refapp - Phase 1 Release;Storefront Implementation;My Account ;Login/register;Sign up/sign in;Story;;;;0,5;0,5;;0,4;0,05;0,25;13,6;1,7;13,6
+Refapp - P1 Release Cigars.com;Storefront Implementation;My Account ;Login/register;Assuming standard Site Genesis template;Story;;;;0,5;0,5;;0,4;0,05;0,25;13,6;1,7;13,6
+Refapp - Phase 1 Release;Storefront Implementation;Header;Login/register window;login/register, social media, specials,  offers, emails ;Story;;;;0,25;0,5;;0,3;0,0375;0,1875;10,2;1,275;10,2
+Refapp - P1 Release Cigars.com;Storefront Implementation;Header;Login/register window;Assume content will be similar to existing site;Story;;;;0,25;0,5;;0,3;0,0375;0,1875;10,2;1,275;10,2
+Refapp - P1 Release Cigars.com;Backend Integration;Backend Integration;Loyalty Progam;Assume integration with well documented 3rd party API;;;;;1;;;0,4;0,05;0,25;13,6;1,7;13,6
+Refapp - Phase 1 Release;SEO;SEO;Map Legacy URLs to New URLs using 301 redirects;;Story;;;;0,5;;3;0,2;0,025;0,125;30,8;3,85;30,8
+New Country;SEO;SEO;Map Legacy URLs to New URLs using 301 redirects;;Story;;;;;;1;;;;8;1;8
+New Brand;SEO;SEO;Map Legacy URLs to New URLs using 301 redirects;;Story;;;;0,25;;0,5;0,1;0,0125;0,0625;7,4;0,925;7,4
+New Language;SEO;SEO;Map Legacy URLs to New URLs using 301 redirects;;Story;;;;;;0,25;;;;2;0,25;2
+Refapp - P1 Release Cigars.com;SEO;SEO;Map Legacy URLs to New URLs using 301 redirects;;Story;;;;0,5;;3;0,2;0,025;0,125;30,8;3,85;30,8
+JRCigars;SEO;SEO;Map Legacy URLs to New URLs using 301 redirects;;Story;;;;0,25;;0,5;0,1;0,0125;0,0625;7,4;0,925;7,4
+Seriouscigar;SEO;SEO;Map Legacy URLs to New URLs using 301 redirects;;Story;;;;0,25;;0,5;0,1;0,0125;0,0625;7,4;0,925;7,4
+SantaClaraCigars;SEO;SEO;Map Legacy URLs to New URLs using 301 redirects;;Story;;;;0,25;;0,5;0,1;0,0125;0,0625;7,4;0,925;7,4
+Refapp - Phase 1 Release;Storefront Implementation;Minicart ;Minicart ;Desktop only;Story;;;;1;0,75;;0,7;0,0875;0,4375;23,8;2,975;23,8
+Refapp - P1 Release Cigars.com;Storefront Implementation;Minicart ;Minicart ;Assuming standard Site Genesis template;Story;;;;1;0,75;;0,7;0,0875;0,4375;23,8;2,975;23,8
+Seriouscigar;Storefront Implementation;My Account ;My Humidor (add and then view the list - kind of like wishlist  but private);;;;;;1;0,5;;0,6;0,075;0,375;20,4;2,55;20,4
+Refapp - P1 Release Cigars.com;Storefront Implementation;My Account ;My Profile Page - Expert;Assume manufacturer articles are provided by client into Content Asset library;Story;;;;0,25;0,5;;0,3;0,0375;0,1875;10,2;1,275;10,2
+Refapp - P1 Release Cigars.com;Backend Integration;Backend Integration;Newsletter;Assume building integration with existing marketing campaign source;;;;;1,5;;;0,6;0,075;0,375;20,4;2,55;20,4
+Refapp - Phase 1 Release;Storefront Implementation;Search Results;No search results page;;Story;;;;0,5;1,25;;0,7;0,0875;0,4375;23,8;2,975;23,8
+Refapp - P1 Release Cigars.com;Storefront Implementation;Search Results;No search results page;Assuming standard Site Genesis template;Story;;;;0,5;1,25;;0,7;0,0875;0,4375;23,8;2,975;23,8
+Seriouscigar;Storefront Implementation;My Account ;Notify me (related to back in stock);Assume OSF-licensed BIS cartridge;;;;;0,15;0,5;;0,26;0,0325;0,1625;8,84;1,105;8,84
+Refapp - P1 Release Cigars.com;Backend Integration;Backend Integration;OMS Integration;Assume OSF-licensed OMS Lite Cartridge;;;;;2;;;0,8;0,1;0,5;27,2;3,4;27,2
+Refapp - Phase 1 Release;Storefront Implementation;My Account ;Order details;;Story;;;;0,5;0,75;;0,5;0,0625;0,3125;17;2,125;17
+Refapp - P1 Release Cigars.com;Storefront Implementation;My Account ;Order details;Assuming standard Site Genesis template;Story;;;;0,5;0,75;;0,5;0,0625;0,3125;17;2,125;17
+Refapp - Phase 1 Release;Data Feeds;Data Feeds;Order Export;;Story;;;;2;;;0,8;0,1;0,5;27,2;3,4;27,2
+Refapp - P1 Release Cigars.com;Data Feeds;Data Feeds;Order Export;;Story;;;;2;;;0,8;0,1;0,5;27,2;3,4;27,2
+Refapp - Phase 1 Release;Storefront Implementation;My Account ;Order History;;Story;;;;0,5;0,75;;0,5;0,0625;0,3125;17;2,125;17
+Refapp - P1 Release Cigars.com;Storefront Implementation;My Account ;Order History;;Story;;;;0,5;0,75;;0,5;0,0625;0,3125;17;2,125;17
+Refapp - Phase 1 Release;Data Feeds;Data Feeds;Order Status import;;Story;;;;4;;;1,6;0,2;1;54,4;6,8;54,4
+Refapp - P1 Release Cigars.com;Data Feeds;Data Feeds;Order Status import;;Story;;;;4;;;1,6;0,2;1;54,4;6,8;54,4
+Refapp - Phase 1 Release;Storefront Implementation;Non product pages ;Other static pages ;Privacy policy, shipping, Returns, terms and conditions;Story;;;;0,25;1;;0,5;0,0625;0,3125;17;2,125;17
+Refapp - P1 Release Cigars.com;Storefront Implementation;Non product pages ;Other static pages ;Assuming content will be similar to existing pages;Story;;;;0,25;1;;0,5;0,0625;0,3125;17;2,125;17
+Refapp - P1 Release Cigars.com;Storefront Implementation;Non product pages ;Other static pages ;Assuming content will be similar to existing pages;;;;;0,25;1;;0,5;0,0625;0,3125;17;2,125;
+Refapp - Phase 1 Release;SEO;SEO;Page metadata;;Story;;;;0,5;;2;0,2;0,025;0,125;22,8;2,85;22,8
+New Country;SEO;SEO;Page metadata;;Story;;;;;;1;;;;8;1;8
+New Brand;SEO;SEO;Page metadata;;Story;;;;0,25;;0,5;0,1;0,0125;0,0625;7,4;0,925;7,4
+New Language;SEO;SEO;Page metadata;;Story;;;;;;0,25;;;;2;0,25;2
+Refapp - P1 Release Cigars.com;SEO;SEO;Page metadata;;Story;;;;0,5;;2;0,2;0,025;0,125;22,8;2,85;22,8
+JRCigars;SEO;SEO;Page metadata;;Story;;;;0,25;;0,5;0,1;0,0125;0,0625;7,4;0,925;7,4
+Seriouscigar;SEO;SEO;Page metadata;;Story;;;;0,25;;0,5;0,1;0,0125;0,0625;7,4;0,925;7,4
+SantaClaraCigars;SEO;SEO;Page metadata;;Story;;;;0,25;;0,5;0,1;0,0125;0,0625;7,4;0,925;7,4
+JRCigars;Backend Implementation;Integrations;Payment;Assume Paypal LINK Cartridge;Story;;;;2;;;0,8;0,1;0,5;27,2;3,4;27,2
+Seriouscigar;Backend Implementation;Integrations;Payment;Paypal - assuming integration with JR is completed first;;;;;0,5;;;0,2;0,025;0,125;6,8;0,85;6,8
+Refapp - Phase 1 Release;Backend Integration;Backend Integration;Payment ;Cybersource;Story;;;;7;;;2,8;0,35;1,75;95,2;11,9;95,2
+Refapp - P1 Release Cigars.com;Backend Integration;Backend Integration;Payment ;Assume Cybersource LINK cartridge;Story;;;;7;;;2,8;0,35;1,75;95,2;11,9;95,2
+Refapp - Phase 1 Release;Backend Integration;Backend Integration;Payment - Paypal Express;Paypal;Story;;;;5;;;2;0,25;1,25;68;8,5;68
+Refapp - P1 Release Cigars.com;Backend Integration;Backend Integration;Payment - Paypal Express;Assume Paypal LINK cartridge;Story;;;;0;;;;;;;;
+Refapp - Phase 1 Release;Storefront Implementation;My Account ;Payment Methods ;Add/ Edit/ Delete/ Default;Story;;;;0,5;0,5;;0,4;0,05;0,25;13,6;1,7;13,6
+Refapp - P1 Release Cigars.com;Storefront Implementation;My Account ;Payment Methods ;Assuming standard Site Genesis template;Story;;;;0,5;0,5;;0,4;0,05;0,25;13,6;1,7;13,6
+Refapp - Phase 1 Release;Storefront Implementation;PDP;PDP - navigation ( prev/next );;Story;;;;0,5;0,5;;0,4;0,05;0,25;13,6;1,7;13,6
+Refapp - P1 Release Cigars.com;Storefront Implementation;PDP;PDP - navigation ( prev/next );;Story;;;;0;0;;;;;;;
+Refapp - Phase 1 Release;Storefront Implementation;PDP;PDP - product details -other attributes;You might like(carousel), description, product details;Story;;;;2;1;;1,2;0,15;0,75;40,8;5,1;40,8
+Refapp - P1 Release Cigars.com;Storefront Implementation;PDP;PDP - product details -other attributes;Assuming standard Site Genesis template;Story;;;;2;1;;1,2;0,15;0,75;40,8;5,1;40,8
+Refapp - Phase 1 Release;Storefront Implementation;PDP;PDP - product details -product bundles;;Story;;;;2;1;;1,2;0,15;0,75;40,8;5,1;40,8
+Refapp - P1 Release Cigars.com;Storefront Implementation;PDP;PDP - product details -product bundles;Assuming standard Site Genesis template;Story;;;;2;1;;1,2;0,15;0,75;40,8;5,1;40,8
+Refapp - Phase 1 Release;Storefront Implementation;PDP;PDP - product details -product main attributes;Product name/images/pricing/variation/social media/availabilities/ add to cart/ add to wishlists etc;Story;;;;2;1;;1,2;0,15;0,75;40,8;5,1;40,8
+Refapp - P1 Release Cigars.com;Storefront Implementation;PDP;PDP - product details -product main attributes;Assuming standard Site Genesis template;Story;;;;2;1;;1,2;0,15;0,75;40,8;5,1;40,8
+Refapp - Phase 1 Release;Storefront Implementation;PDP;PDP - product details -product sets;;Story;;;;2;1;;1,2;0,15;0,75;40,8;5,1;40,8
+Refapp - P1 Release Cigars.com;Storefront Implementation;PDP;PDP - product details -product sets;;Story;;;;0;0;;;;;;;
+Refapp - Phase 1 Release;Storefront Implementation;PDP;PDP - product details -type;Standard/Variations;Story;;;;2;1;;1,2;0,15;0,75;40,8;5,1;40,8
+Refapp - P1 Release Cigars.com;Storefront Implementation;PDP;PDP - product details -type;Assuming standard Site Genesis template;Story;;;;2;1;;1,2;0,15;0,75;40,8;5,1;40,8
+Refapp - Phase 1 Release;Storefront Implementation;Footer;Persistent footer;About, contact us, FAQ, Policies, Press, Legal, Store;Story;;;;0,25;0,5;;0,3;0,0375;0,1875;10,2;1,275;10,2
+Refapp - P1 Release Cigars.com;Storefront Implementation;Footer;Persistent footer;Assume content will be similar to existing site;Story;;;;0,25;0,5;;0,3;0,0375;0,1875;10,2;1,275;10,2
+Refapp - P1 Release Cigars.com;Backend Integration;Backend Integration;PIM Integration;Assume building integration with Webdam;;;;;2;1;;1,2;0,15;0,75;40,8;5,1;40,8
+Refapp - Phase 1 Release;Prestart Activities;Prestart Activities;Prestart Activities;Build Server, Working Environment, Test Plan, Project Plan;Story;;;2;;;;3;;2;56;7;56
+Refapp - P1 Release Cigars.com;Prestart Activities;Prestart Activities;Prestart Activities;Build Server, Working Environment, Test Plan, Project Plan;Story;;;2;;;;3;;2;56;7;56
+Refapp - Phase 1 Release;Data Feeds;Data Feeds;Pricebook feed;;Story;;;;2;;;0,8;0,1;0,5;27,2;3,4;27,2
+Refapp - P1 Release Cigars.com;Data Feeds;Data Feeds;Pricebook feed;;Story;;;;2;;;0,8;0,1;0,5;27,2;3,4;27,2
+JRCigars;Storefront Implementation;My Account;Profile >> Auto ship;"automatic reorders; create a separate account";Story;;;;1,5;0,5;;0,8;0,1;0,5;27,2;3,4;27,2
+JRCigars;Storefront Implementation;My Account;Profile >> Instant Checkout;Assume this is a customer profile custom attribute;Story;;;;0,5;0,5;;0,4;0,05;0,25;13,6;1,7;13,6
+JRCigars;Storefront Implementation;My Account;Profile >> My auctions;assuming auction site provides API or similar integration capabilities to leverage;Story;;;;0,5;0,5;;0,4;0,05;0,25;13,6;1,7;13,6
+JRCigars;Storefront Implementation;My Account;Profile >> My wishlist;Assume standard Site Genesis functionality;Story;;;;0,5;0,5;;0,4;0,05;0,25;13,6;1,7;13,6
+JRCigars;Storefront Implementation;My Account;Profile >> SMS notifications;Assuming integration with existing SMS provider;Story;;;;1;0,25;;0,5;0,0625;0,3125;17;2,125;17
+Refapp - Phase 1 Release;Storefront Implementation;Quickview;Quick view - standard/ single variation products;;Story;;;;;0,75;;0,3;0,0375;0,1875;10,2;1,275;10,2
+Refapp - P1 Release Cigars.com;Storefront Implementation;Quickview;Quick view - standard/ single variation products;Assuming standard Site Genesis template;Story;;;;;0,75;;0,3;0,0375;0,1875;10,2;1,275;10,2
+Refapp - Phase 1 Release;Storefront Implementation;Quickview ;Quickview - edit cart;;Story;;;;;0,5;;0,2;0,025;0,125;6,8;0,85;6,8
+Refapp - P1 Release Cigars.com;Storefront Implementation;Quickview ;Quickview - edit cart;;Story;;;;;0;;;;;;;
+Refapp - Phase 1 Release;Storefront Implementation;Quickview ;Quickview - product set;;Story;;;;;0,75;;0,3;0,0375;0,1875;10,2;1,275;10,2
+Refapp - P1 Release Cigars.com;Storefront Implementation;Quickview ;Quickview - product set;;Story;;;;;0;;;;;;;
+Refapp - Phase 1 Release;Storefront Implementation;Quickview ;Quickview - variation products ;;Story;;;;;0,75;;0,3;0,0375;0,1875;10,2;1,275;10,2
+Refapp - P1 Release Cigars.com;Storefront Implementation;Quickview ;Quickview - variation products ;Assuming standard Site Genesis template;Story;;;;;0,75;;0,3;0,0375;0,1875;10,2;1,275;10,2
+Refapp - P1 Release Cigars.com;Backend Integration;Backend Integration;Ratings and Reviews;Assume utilizing BV LINK cartridge and client performs dashboard configurations;;;;;1;1;;0,8;0,1;0,5;27,2;3,4;27,2
+Refapp - P1 Release Cigars.com;Backend Integration;Backend Integration;Recommendation;;;;;;1;;;0,4;0,05;0,25;13,6;1,7;13,6
+Refapp - Phase 1 Release;Storefront Implementation;PDP;Recommendations;Scroll carousel/ cross sell;Story;;;;0,5;0,75;;0,5;0,0625;0,3125;17;2,125;17
+Refapp - P1 Release Cigars.com;Storefront Implementation;PDP;Recommendations;;Story;;;;0;0;;;;;;;
+JRCigars;Storefront Implementation;PDP;Recommendations ;on the pdp as well;Story;;;;0,5;0,5;;0,4;0,05;0,25;13,6;1,7;13,6
+SantaClaraCigars;Storefront Implementation;My Account;Registration is a 5 step process;Assume integration with existing Business verification entity;Story;;;;0,75;3;;1,5;0,1875;0,9375;51;6,375;51
+Refapp - P1 Release Cigars.com;Release;Release;Regression and smoke testing Staging and dev;;;;;;1;1;;1;;;24;3;24
+JRCigars;Release;Release;Regression and smoke testing Staging and dev;;;;;;1;1;;1;;;24;3;24
+Seriouscigar;Release;Release;Regression and smoke testing Staging and dev;;;;;;1;1;;1;;;24;3;24
+SantaClaraCigars;Release;Release;Regression and smoke testing Staging and dev;;Story;;;;1;1;;1;;;24;3;24
+Refapp - Phase 1 Release;Release;Release;Remove all deprecated apis and logs cleanup;;Story;;4;;;;;;;;32;4;32
+Refapp - P1 Release Cigars.com;Release;Release;Remove all deprecated apis and logs cleanup;;Story;;4;;1;;;;;;40;5;40
+JRCigars;Release;Release;Remove all deprecated apis and logs cleanup;;Story;;4;;;;;;;;32;4;32
+Seriouscigar;Release;Release;Remove all deprecated apis and logs cleanup;;Story;;4;;;;;;;;32;4;32
+SantaClaraCigars;Release;Release;Remove all deprecated apis and logs cleanup;;Story;;4;;;;;;;;32;4;32
+Seriouscigar;Storefront Implementation;Storefront Implementation;Replicate product list page for multi add to cart view;Assume quantity denominations are defined as product variations in SFCC catalog;Story;;;;;1;;0,4;0,05;0,25;13,6;1,7;13,6
+Refapp - P1 Release Cigars.com;Reporting;Support;Reporting;;Story;;;;;;;5,24;;3,409375;69,195;8,649375;69,195
+JRCigars;Reporting;Support;Reporting;;Story;;;;;;;8,1325;;9,19125;138,59;17,32375;138,59
+Seriouscigar;Reporting;Support;Reporting;;Story;;;;;;;1,693;;1,058125;22,009;2,751125;22,009
+SantaClaraCigars;Reporting;Support;Reporting;;Story;;;;;;;1,463;;0,914375;19,019;2,377375;19,019
+Refapp - Phase 1 Release;Storefront Implementation;My Account ;Reset Password ;;Story;;;;0,25;0,5;;0,3;0,0375;0,1875;10,2;1,275;10,2
+Refapp - P1 Release Cigars.com;Storefront Implementation;My Account ;Reset Password ;Assuming standard Site Genesis template;Story;;;;0,25;0,5;;0,3;0,0375;0,1875;10,2;1,275;10,2
+Refapp - Phase 1 Release;Storefront Implementation;Search Results;Result refinement;Category/ size/ color ;Story;;;;1;1,5;;1;0,125;0,625;34;4,25;34
+Refapp - P1 Release Cigars.com;Storefront Implementation;Search Results;Result refinement;Assuming standard Site Genesis template;Story;;;;1;1,5;;1;0,125;0,625;34;4,25;34
+Refapp - Phase 1 Release;Prestart Activities;SRA;Review and Complete SRA Gate 1;;Story;;;3;3;2;;;;3;88;11;88
+Refapp - P1 Release Cigars.com;Site Readiness Assessment;SRA;Review and Complete SRA Gate 1;;Story;;;3;3;2;;;;3;88;11;88
+Refapp - Phase 1 Release;Prestart Activities;SRA;Review and Complete SRA Gate 2;;Story;;;2;3;4;;;;1;80;10;80
+Refapp - P1 Release Cigars.com;Site Readiness Assessment;SRA;Review and Complete SRA Gate 2;;Story;;;2;3;4;;;;1;80;10;80
+Discovery & Documentation;SPECS & CREATIVES;Documentation;Review Designs Provided by client/agency;;Story;2;;;;1;;;;0,75;30;3,75;30
+Seriouscigar;Backend Implementation;Backend Integrations;Ron's corner - blog;Assuming integration with WordPress for content;;;;;1;;;0,4;0,05;0,25;13,6;1,7;13,6
+SantaClaraCigars;Storefront Implementation;Custom Pages;Santa Clara Catalog;;Story;;;;1;1;;;;;;;
+Refapp - Phase 1 Release;Storefront Implementation;Search suggestions;Search inputs;;Story;;;;;0,5;;0,2;0,025;0,125;6,8;0,85;6,8
+Refapp - P1 Release Cigars.com;Storefront Implementation;Search suggestions;Search inputs;Assuming standard Site Genesis template;Story;;;;;0,5;;0,2;0,025;0,125;6,8;0,85;6,8
+Refapp - Phase 1 Release;Storefront Implementation;Search Results;Search result page;Product tiles, Product grids view,  Articles, Pagination, Sort By;Story;;;;1;2,5;;1,4;0,175;0,875;47,6;5,95;47,6
+Refapp - P1 Release Cigars.com;Storefront Implementation;Search Results;Search result page;Assuming standard Site Genesis template;Story;;;;1;2,5;;1,4;0,175;0,875;47,6;5,95;47,6
+Refapp - Phase 1 Release;Storefront Implementation;Search suggestions;Search suggestions;Suggested search matches/ products matches, hover links;Story;;;;;1,5;;0,6;0,075;0,375;20,4;2,55;20,4
+Refapp - P1 Release Cigars.com;Storefront Implementation;Search suggestions;Search suggestions;Assuming standard Site Genesis template;Story;;;;0,5;1,5;;0,8;0,1;0,5;27,2;3,4;27,2
+JRCigars;Storefront Implementation;Search suggestions;Search suggestions >> Advanced button;Assume standard Search Definitions ;Story;;;;0,5;1;;0,6;0,075;0,375;20,4;2,55;20,4
+Seriouscigar;Storefront Implementation;Search suggestions;Search suggestions >> Advanced button;Assume standard Search Definitions ;;;;;0,25;1;;0,5;0,0625;0,3125;17;2,125;17
+Refapp - Phase 1 Release;Release;Release;Smoke tests on production;;Story;;;;;;;0,5;;;4;0,5;4
+New Country;Release;Release;Smoke tests on production;;Story;;;;;;;;;0,5;4;0,5;4
+New Brand;Release;Release;Smoke tests on production;;Story;;;;;;;;;0,5;4;0,5;4
+New Language;Release;Release;Smoke tests on production;;Story;;;;;;;;;0,5;4;0,5;4
+Refapp - P1 Release Cigars.com;Release;Release;Smoke tests on production;;Story;;;;;;;0,5;;;4;0,5;4
+JRCigars;Release;Release;Smoke tests on production;;Story;;;;;;;;;0,5;4;0,5;4
+Seriouscigar;Release;Release;Smoke tests on production;;Story;;;;;;;;;0,5;4;0,5;4
+SantaClaraCigars;Release;Release;Smoke tests on production;;Story;;;;;;;;;0,5;4;0,5;4
+Refapp - P1 Release Cigars.com;Backend Integration;Backend Integration;Social Sign-on through FB;Assume standard Facebook API app integration;;;;;0,5;;;0,2;0,025;0,125;6,8;0,85;6,8
+Refapp - P1 Release Cigars.com;Status Calls;Support;Status Calls (Client and internal);;Story;;0,2;1;7;5,9625;;5,24;0,489375;3,409375;186,41;23,30125;186,41
+JRCigars;Status Calls;Support;Status Calls (Client and internal);;Story;0,15;0,7;0,25;2,075;2,6875;0,125;2,145;0,568125;1,340625;80,33;10,04125;80,33
+Seriouscigar;Status Calls;Support;Status Calls (Client and internal);;Story;;0,7;0,25;1,5325;2,1;0,125;1,693;0,511625;1,058125;63,762;7,97025;63,762
+SantaClaraCigars;Status Calls;Support;Status Calls (Client and internal);;Story;;0,7;0,25;1,37;2,075;0,125;1,463;0,482875;0,914375;59,042;7,38025;59,042
+Refapp - Phase 1 Release;Storefront Implementation;Store locator ;Store locator - store details ;;Story;;;;0,5;0,5;;0,4;0,05;0,25;13,6;1,7;13,6
+Refapp - P1 Release Cigars.com;Storefront Implementation;Store locator ;Store locator - store details ;;Story;;;;0;0;;;;;;;
+Refapp - Phase 1 Release;Storefront Implementation;Store locator ;Store locator Results ;;Story;;;;0,5;0,5;;0,4;0,05;0,25;13,6;1,7;13,6
+Refapp - P1 Release Cigars.com;Storefront Implementation;Store locator ;Store locator Results ;;Story;;;;0;0;;;;;;;
+Refapp - Phase 1 Release;Storefront Implementation;Store locator ;Store locator Search ;Landing page;Story;;;;0,5;0,5;;0,4;0,05;0,25;13,6;1,7;13,6
+Refapp - P1 Release Cigars.com;Storefront Implementation;Store locator ;Store locator Search ;;Story;;;;0;0;;;;;;;
+New Brand;Gap Analysis & Discovery & Designs;Gap Analysis & Discovery & Designs;Storefront Discovery Workshop;;Story;2,5;7,5;;;;;;;2,5;100;12,5;100
+JRCigars;Gap Analysis & Discovery & Designs;Gap Analysis & Discovery & Designs;Storefront Discovery Workshop;;Story;2,5;7,5;;;;;;;2,5;100;12,5;100
+Seriouscigar;Gap Analysis & Discovery & Designs;Gap Analysis & Discovery & Designs;Storefront Discovery Workshop;;Story;2,5;7,5;;;;;;;2,5;100;12,5;100
+SantaClaraCigars;Gap Analysis & Discovery & Designs;Gap Analysis & Discovery & Designs;Storefront Discovery Workshop;;Story;2,5;7,5;;;;;;;2,5;100;12,5;100
+Refapp - Phase 1 Release;Storefront Implementation;Global Navigation;Sub-categories;;Story;;;;;0,5;;0,2;0,025;0,125;6,8;0,85;6,8
+Refapp - P1 Release Cigars.com;Storefront Implementation;Global Navigation;Sub-categories;Assume content will be similar to existing site;Story;;;;;0,5;;0,2;0,025;0,125;6,8;0,85;6,8
+Refapp - P1 Release Cigars.com;Storefront Implementation;Homepage;Takeover Banner;Assume content will be similar to existing site;Story;;;;;1;;0,4;0,05;0,25;13,6;1,7;13,6
+Refapp - Phase 1 Release;Backend Integration;Backend Integration;Taxation;Avalara / Vertex;Story;;;;4;;;1,6;0,2;1;54,4;6,8;54,4
+Refapp - P1 Release Cigars.com;Backend Integration;Backend Integration;Taxation;Assume Avalara / Vertex LINK Cartridge;Story;;;;0;;;;;;;;
+SantaClaraCigars;Backend Implementation;Backend Implementation;TaxID verification;Assuming 3rd party integration with documented API;;;;;0,5;;;0,2;0,025;0,125;6,8;0,85;6,8
+Refapp - Phase 1 Release;Storefront Implementation;Transactional Email ;Transactional Emails;Contact Us - Request Received, Account Creation / Validation, Forgot / Reset Password,  Reset Password Confirmation, Order Confirmation, Pre Order Confirmation, Order Cancelled;Story;;;;;7;;2,8;0,35;1,75;95,2;11,9;95,2
+Refapp - P1 Release Cigars.com;Storefront Implementation;Transactional Email ;Transactional Emails;Desktop only;Story;;;;1;7;;3,2;0,4;2;108,8;13,6;108,8
+Refapp - Phase 1 Release;UAT Support;UAT Support;UAT Support;1 Month UAT;Story;;;5;10;10;;10;;5;320;40;320
+New Country;UAT Support;UAT Support;UAT Support;2 weeks;Story;;;2,5;5;5;;;5;2,5;160;20;160
+New Brand;UAT Support;UAT Support;UAT Support;;Story;;;2,5;5;5;;;5;2,5;160;20;160
+New Language;UAT Support;UAT Support;UAT Support;2 weeks;Story;;;2,5;5;5;;;5;2,5;160;20;160
+Refapp - P1 Release Cigars.com;UAT Support;UAT Support;UAT Support;1 Month UAT;Story;;;5;10;10;;10;;5;320;40;320
+JRCigars;UAT Support;UAT Support;UAT Support;;Story;;;2,5;5;5;;;5;2,5;160;20;160
+Seriouscigar;UAT Support;UAT Support;UAT Support;;Story;;;2,5;5;5;;;5;2,5;160;20;160
+SantaClaraCigars;UAT Support;UAT Support;UAT Support;;Story;;;2,5;5;5;;;5;2,5;160;20;160
+New Brand;Storefront Implementation;Storefront Implementation;UI declination for new brand;;Story;;;;2;20;;8,8;1,1;5,5;299,2;37,4;299,2
+JRCigars;Storefront Implementation;Storefront Implementation;UI declination for new brand;Assume content will be similar to existing site;Story;;;;2;20;;8,8;1,1;5,5;299,2;37,4;299,2
+Seriouscigar;Storefront Implementation;Storefront Implementation;UI declination for new brand;Assume content will be similar to existing site;Story;;;;2;20;;8,8;1,1;5,5;299,2;37,4;299,2
+SantaClaraCigars;Storefront Implementation;Storefront Implementation;UI declination for new brand;Assume content will be similar to existing site;Story;;;;2;20;;8,8;1,1;5,5;299,2;37,4;299,2
+Refapp - Phase 1 Release;Release;Release;Update BM user guide ;;Story;;;;;;;2;;;16;2;16
+Refapp - P1 Release Cigars.com;Release;Release;Update BM user guide ;;Story;;;;;;;2;;;16;2;16
+New Country;Prestart Activities;Prestart Activities;Update Documentation;;Story;;0,5;0,5;;;;;;;8;1;8
+New Language;Prestart Activities;Prestart Activities;Update Documntation;;Story;;0,25;0,25;;;;;;;4;0,5;4
+New Language;Prestart Activities;Prestart Activities;Update Project and Test Plan;;Story;;;;;;;0,5;;0,25;6;0,75;6
+New Country;Prestart Activities;Prestart Activities;Update Project Plan and test Plan;;Story;;;;;;;0,5;;0,5;8;1;8
+New Brand;Prestart Activities;Prestart Activities;Update project plan and test plan;;Story;;;;;;;1;;0,5;12;1,5;12
+JRCigars;Prestart Activities;Prestart Activities;Update project plan and test plan;;Story;;;;;;;1;;0,5;12;1,5;12
+Seriouscigar;Prestart Activities;Prestart Activities;Update project plan and test plan;;Story;;;;;;;1;;0,5;12;1,5;12
+SantaClaraCigars;Prestart Activities;Prestart Activities;Update project plan and test plan;;Story;;;;;;;1;;0,5;12;1,5;12
+New Language;Storefront Implementation;Storefront Implementation;Update Templates in order to incorporate new translations;;Story;;;;;2;;0,8;0,1;0,5;27,2;3,4;27,2
+New Country;Storefront Implementation;Storefront Implementation;Update Templates to support new Locale;;Story;;;;;3;;1,2;0,15;0,75;40,8;5,1;40,8
+SantaClaraCigars;Storefront Implementation;PDP;User can't add to cart, unless they are logged in.;Assume standard Site Genesis template (exception noted in Requirements);Story;;;;0,15;2;;0,86;0,1075;0,5375;29,24;3,655;29,24
+Refapp - P1 Release Cigars.com;Backend Integration;Backend Integration;Veritad;Assume building integration with Vertatad API;;;;;1;;;0,4;0,05;0,25;13,6;1,7;13,6
+Refapp - Phase 1 Release;WARRANTY Support;WARRANTY Support;WARRANTY Support;1 Month Warranty;Story;;;5;10;10;;10;;5;320;40;320
+New Country;WARRANTY Support;WARRANTY Support;WARRANTY Support;2 weeks;Story;;;1;2,5;2,5;;;2,5;1;76;9,5;76
+New Brand;WARRANTY Support;WARRANTY Support;WARRANTY Support;;Story;;;1;2,5;2,5;;;2,5;1;76;9,5;76
+New Language;WARRANTY Support;WARRANTY Support;WARRANTY Support;2 weeks;Story;;;1;2,5;2,5;;;2,5;1;76;9,5;76
+Refapp - P1 Release Cigars.com;WARRANTY Support;WARRANTY Support;WARRANTY Support;1 Month Warranty;Story;;;5;10;10;;10;;5;320;40;320
+JRCigars;WARRANTY Support;WARRANTY Support;WARRANTY Support;;Story;;;1;2,5;2,5;;;2,5;1;76;9,5;76
+Seriouscigar;WARRANTY Support;WARRANTY Support;WARRANTY Support;;Story;;;1;2,5;2,5;;;2,5;1;76;9,5;76
+SantaClaraCigars;WARRANTY Support;WARRANTY Support;WARRANTY Support;;Story;;;1;2,5;2,5;;;2,5;1;76;9,5;76
+Refapp - Phase 1 Release;Storefront Implementation;Wishlist;Wish List;Login, Wishlist search, Public View, Results;Story;;;;2;2,5;;1,8;0,225;1,125;61,2;7,65;61,2
+Refapp - P1 Release Cigars.com;Storefront Implementation;Wishlist;Wish List;;Story;;;;0;2,5;;1;0,125;0,625;34;4,25;34
+Refapp - P1 Release Cigars.com;Storefront Implementation;My Account ;Your Collections ;Assuming this will require a custom BM snap-in to handle approving and potentially updating the discount pricing;;;;;2;2;;1,6;0,2;1;54,4;6,8;
